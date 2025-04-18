@@ -1,139 +1,95 @@
 ﻿# MindMate-HACKHAZARDS
 ![github-submission-banner](https://github.com/user-attachments/assets/a1493b84-e4e2-456e-a791-ce35ee2bcf2f)
 
-# 🚀 Project Title
+# 🚀 MindMate – The Ultimate AI Study Companion
 
-> A one-line tagline or mission statement for your project.
+> Your all-in-one AI-powered learning, career, and wellness partner for students.
 
 ---
 
 ## 📌 Problem Statement
 
-Select the problem statement number and title from the official list given in Participant Manual.
-
-**Example:**  
-**Problem Statement 7 – Transform the Future of Rural Commerce**
+**Problem Statement 3 – Empower Students with Intelligent EdTech**
 
 ---
 
 ## 🎯 Objective
 
-What problem does your project solve, and who does it serve?  
-Briefly describe the real-world use case and the value it provides.
+MindMate solves the fragmented student experience by unifying learning, doubt-solving, self-assessment, and mental health support into a single AI-powered platform. It empowers students with personalized learning, career prep, and emotional well-being tools—backed by community and mentorship.
 
 ---
 
 ## 🧠 Team & Approach
 
 ### Team Name:  
-`Your team name here`
+`Code Leaders`
 
 ### Team Members:  
-- Name 1 (GitHub / LinkedIn / Role)  
-- Name 2  
-- Name 3  
-*(Add links if you want)*
+- Tirthesh  
+- Aniket  
+- Suraj  
 
 ### Your Approach:  
-- Why you chose this problem  
-- Key challenges you addressed  
-- Any pivots, brainstorms, or breakthroughs during hacking  
+- We chose this problem to create a true one-stop solution for students' academic and emotional needs.  
+- Key challenges included combining diverse features (like AI tutoring, interviews, and community) into a seamless user experience.  
+- A major breakthrough came when we shifted from a simple tutor bot idea to a full-fledged AI-powered companion with real-time support and career tools.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Core Technologies Used:
-- Frontend:
-- Backend:
-- Database:
-- APIs:
-- Hosting:
+- Frontend: Next.js, TailwindCSS, Framer Motion  
+- Backend: Node.js, Express.js  
+- Database: MongoDB  
+- APIs: OpenAI, Google OAuth, WebRTC, Stripe  
+- Hosting: Vercel (Frontend), Render (Backend)
 
 ### Sponsor Technologies Used (if any):
-- [ ] **Groq:** _How you used Groq_  
-- [ ] **Monad:** _Your blockchain implementation_  
-- [ ] **Fluvio:** _Real-time data handling_  
-- [ ] **Base:** _AgentKit / OnchainKit / Smart Wallet usage_  
-- [ ] **Screenpipe:** _Screen-based analytics or workflows_  
-- [ ] **Stellar:** _Payments, identity, or token usage_
-*(Mark with ✅ if completed)*
+- ✅ **Groq:** Used Groq LLM for lightning-fast AI tutoring and doubt-solving
+
 ---
 
 ## ✨ Key Features
 
-Highlight the most important features of your project:
+- ✅ AI Tutor & Doubt Solver (with image & voice input)  
+- ✅ Smart Quiz Generator + Performance Tracker  
+- ✅ AI Mock Interviews with real-time feedback  
+- ✅ Mental Health Mood Tracker + SOS  
+- ✅ Mentor Booking System with Payment Gateway  
+- ✅ Study Group Chats & Live Video Collaboration  
+- ✅ Notes Summarizer & AI-powered Smart Notes  
 
-- ✅ Feature 1  
-- ✅ Feature 2  
-- ✅ Feature 3  
-- ✅ Feature 4  
-
-Add images, GIFs, or screenshots if helpful!
+![App Screenshot](https://devfolio-prod.s3.ap-south-1.amazonaws.com/hackathons/2a2dfd8492574a2da83c47828270e0e1/projects/3d737aab25c64464be590d3dd0e0d899/6f363f79-8d9a-4116-8bab-4c8a0d8eab25.jpeg)
 
 ---
 
 ## 📽️ Demo & Deliverables
 
-- **Demo Video Link:** [Paste YouTube or Loom link here]  
-- **Pitch Deck / PPT Link:** [Paste Google Slides / PDF link here]  
-
----
-
-## ✅ Tasks & Bonus Checklist
-
-- [ ] **All members of the team completed the mandatory task - Followed at least 2 of our social channels and filled the form** (Details in Participant Manual)  
-- [ ] **All members of the team completed Bonus Task 1 - Sharing of Badges and filled the form (2 points)**  (Details in Participant Manual)
-- [ ] **All members of the team completed Bonus Task 2 - Signing up for Sprint.dev and filled the form (3 points)**  (Details in Participant Manual)
-
-*(Mark with ✅ if completed)*
+- **Demo Video Link:** [https://www.youtube.com/watch?v=F7-ATGoDEcY](https://www.youtube.com/watch?v=F7-ATGoDEcY)  
+- **Pitch Deck / PPT Link:** [https://docs.google.com/presentation/d/1l6lCnKYlwMC1iWiTTvTmB0G5jU9RzuG4/edit?usp=sharing&ouid=111897697806499226114&rtpof=true&sd=true](https://docs.google.com/presentation/d/1l6lCnKYlwMC1iWiTTvTmB0G5jU9RzuG4/edit?usp=sharing&ouid=111897697806499226114&rtpof=true&sd=true)
 
 ---
 
 ## 🧪 How to Run the Project
 
 ### Requirements:
-- Node.js / Python / Docker / etc.
-- API Keys (if any)
-- .env file setup (if needed)
+- Node.js v18+  
+- MongoDB URI  
+- Groq API Keys  
+- `.env` file with credentials
 
 ### Local Setup:
 ```bash
 # Clone the repo
-git clone https://github.com/your-team/project-name
+git clone https://github.com/tirtheshjaintj/MindMate-HACKHAZARDS
 
 # Install dependencies
-cd project-name
+cd MindMate-HACKHAZARDS
 npm install
 
-# Start development server
+# Create .env and add keys
+cp .env.example .env
+
+# Start dev server
 npm run dev
-```
-
-Provide any backend/frontend split or environment setup notes here.
-
----
-
-## 🧬 Future Scope
-
-List improvements, extensions, or follow-up features:
-
-- 📈 More integrations  
-- 🛡️ Security enhancements  
-- 🌐 Localization / broader accessibility  
-
----
-
-## 📎 Resources / Credits
-
-- APIs or datasets used  
-- Open source libraries or tools referenced  
-- Acknowledgements  
-
----
-
-## 🏁 Final Words
-
-Share your hackathon journey — challenges, learnings, fun moments, or shout-outs!
-
----
