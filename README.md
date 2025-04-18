@@ -65,7 +65,7 @@ MindMate solves the fragmented student experience by unifying learning, doubt-so
 ---
 
 ## 📽️ Demo & Deliverables
-
+- **Live Demo Link:** [https://tjmindmate.netlify.app/](https://tjmindmate.netlify.app/)  
 - **Demo Video Link:** [https://www.youtube.com/watch?v=F7-ATGoDEcY](https://www.youtube.com/watch?v=F7-ATGoDEcY)  
 - **Pitch Deck / PPT Link:** [https://docs.google.com/presentation/d/1l6lCnKYlwMC1iWiTTvTmB0G5jU9RzuG4/edit?usp=sharing&ouid=111897697806499226114&rtpof=true&sd=true](https://docs.google.com/presentation/d/1l6lCnKYlwMC1iWiTTvTmB0G5jU9RzuG4/edit?usp=sharing&ouid=111897697806499226114&rtpof=true&sd=true)
 
